@@ -1,0 +1,50 @@
+.titulo{ background-color: gray;
+         font-size: large;
+         border-top: solid 10px black;
+         border-bottom: solid 10px black;
+         border-left: solid 10px rgb(217, 202, 202);
+         
+}
+body{
+    margin: 0;
+}
+.div{
+    display: flex;
+}
+.verde{
+    background-color: rgb(54, 227, 54);
+    border-radius: 8%;
+    margin: 5%;
+    padding: 1%;    
+}
+.left{
+    width: 40%;
+    height: 800px;
+    border-right: 6px solid black;
+}
+.right{
+    width: 60%;
+    padding: 2%;
+}
+img{
+    width: 100%;
+}
+.imgr{
+    float: right;
+    width: 30%;
+}
+.text{
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size:xx-large;
+    
+}
+.subtitulo{
+    
+    border-bottom: double 8px green;
+    
+}
+p{  text-align: justify;
+    font-size: large;
+}
